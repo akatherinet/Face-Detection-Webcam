@@ -1,4 +1,4 @@
-Real-Time Webcam Facial Feature Detection Project
+__Real-Time Webcam Facial Feature Detection Project__
 
 This project implements real-time face, eye, and mouth detection in a webcam feed using the Viola-Jones object detection algorithm.
 
